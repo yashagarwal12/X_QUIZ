@@ -29,6 +29,7 @@ public class App {
         quiz1.attemptQuiz();
         System.out.println("Your final score: " + quiz1.getFinalScore());
 
+
         System.out.println("List of all the answers: ");
         quiz1.revealAnswerKey();
 
