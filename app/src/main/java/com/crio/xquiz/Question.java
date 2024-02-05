@@ -29,7 +29,7 @@ public class Question{
                 this.answer_text=answer_text;
         }
 
-               ;
+               
     }
     // use the  signature :  public Question(String questionText, List<String> choices, String answer)
     // Include the following validations
